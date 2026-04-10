@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Free2Play7.aternos.me",
+    "port": 60545,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to TASERCLUBSMP!",
         "I like to play Minecraft!"
       ]
     },
